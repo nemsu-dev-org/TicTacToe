@@ -2,7 +2,7 @@
 
 # TicTacToe
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/platform-Android-blueviolet.svg)](#)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](#)
 
@@ -30,7 +30,7 @@ You can install TicTacToe either by downloading the pre-compiled APK or by build
 
 ### Option 1: Install via APK
 
-1. Download `TicTacToe-v1.0.apk` from the Releases / Assets section.
+1. Download `TicTacToe-v1.0.1.apk` from the Releases / Assets section.
 2. Tap the downloaded file and allow installation from "Unknown sources" if prompted on your Android device.
 3. Open **TicTacToe** from your app drawer to start playing!
 
