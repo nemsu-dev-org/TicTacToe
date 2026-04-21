@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkBlue">#013249</color>
+    <color name="blue">#0AA899</color>
+    <color name="marine">#0F1954</color>
+    <color name="red">#54020A</color>
+    <color name="dark">#141433</color>
+    <color name="redOrange">#F82424</color>
+    <color name="yellow">#CAD92E</color>
+    <color name="grey">#565151</color>
+    <color name="loser">#950030</color>
+</resources>
