@@ -12,6 +12,45 @@
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/117ff60d-aa75-40c1-a5e1-b9c11e8d9b46.jpg" width="180" alt="Splash Screen"/><br/>
+      <sub><b>Splash Screen</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/ac15d9b2-d08b-42ea-adc4-da2548fbbc3c.jpg" width="180" alt="Intro Screen"/><br/>
+      <sub><b>Intro Screen</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/092dbec4-9757-4dd7-94e3-aefd22d49c5c.jpg" width="180" alt="Main Menu"/><br/>
+      <sub><b>Main Menu</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/a29588a3-6ae8-41d3-9097-4432b03204b8.jpg" width="180" alt="Gameplay"/><br/>
+      <sub><b>Gameplay (Two Player)</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/6faad437-34de-4662-b6fb-c10851d90aec.jpg" width="180" alt="Tie Result"/><br/>
+      <sub><b>Tie Result</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/faf80e00-cba8-415e-abb5-61e856ebf9ef.jpg" width="180" alt="Win Result"/><br/>
+      <sub><b>Win Result</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## Features
 
 TicTacToe provides a fun and simple game environment designed for both casual play and a challenging AI opponent.  
